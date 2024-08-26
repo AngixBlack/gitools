@@ -37,7 +37,7 @@ You can add tools in script its easy
 
 - **Ethical Usage**: Use all tools responsibly and ethically. Unauthorized or malicious use of these tools can have serious legal and ethical consequences. Always obtain proper authorization before using any tool in your environment.
 
-- **Feedback and Updates**: If you identify any tool that poses security or ethical concerns, please notify me so that I can consider removing it from the list. Your feedback helps maintain the integrity and safety of this tool management system.
+- **Feedback and Updates**: If you identify any tool that poses security or ethical concerns, please notify me so that I can consider removing it from the list. Your feedback helps maintain the integrity and safety .
 
 **Your adherence to these guidelines ensures the safe and ethical use of tools.**
 
