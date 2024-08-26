@@ -21,7 +21,7 @@ chmod +x gitools.sh
 
 This script performs Three essential tasks:
 
-1. **Generates Dir of Tools and install all tools on it **
+1. **Generates Dir of Tools and install all tools on it**
 
 2. **install Go tools and Copies Go Tools to \`/usr/bin\`**
      
