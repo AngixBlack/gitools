@@ -21,11 +21,13 @@ chmod +x gitools.sh
 
 This script performs Three essential tasks:
 
-1. **Generates a List of Tools**
+1. **Generates Dir of Tools and install all tools on it **
 
-2. **Copies Go Tools to \`/usr/bin\`**
+2. **install Go tools and Copies Go Tools to \`/usr/bin\`**
      
 3. **install pip tools**
+
+You can add tools in script its easy 
 
 ## Disclaimer
 
